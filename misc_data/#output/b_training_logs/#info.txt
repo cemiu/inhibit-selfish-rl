@@ -1,0 +1,1 @@
+This folder contains the training logs for an expert agent. For each environment 6 networks were trained, twice with 1M, 5M, and 10M steps each.

@@ -1,0 +1,1 @@
+This folder contains the trained models for A. For every model in this folder, at least 10 agents were trained, but were reduced to a random subsample.
